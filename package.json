@@ -1,0 +1,11 @@
+{
+  "name": "websocket-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mike Lazer-Walker <michael@lazerwalker.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ws": "^6.1.0"
+  }
+}
