@@ -1,5 +1,7 @@
 # WebSocket iOS 12 Bug
 
+More information about this is available at https://openradar.appspot.com/radar?id=6126222979366912.
+
 1. `npm install`
 2. `node server.js`
 
