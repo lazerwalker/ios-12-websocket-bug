@@ -1,6 +1,6 @@
 # WebSocket iOS 12 Bug
 
-1. `yarn install`
+1. `npm install`
 2. `node server.js`
 
 A web server should be live at `http://YOUR-IP:3000`. It's also hosting a websocket server at `ws://YOUR-IP:12345`
